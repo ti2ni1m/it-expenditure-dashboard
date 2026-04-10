@@ -20,7 +20,7 @@ The goal is to identify spending patterns, optimise costs, and support better fi
 
 ## Dashboard Preview
 # Overview
-![Image alt text] (https://github.com/ti2ni1m/it-expenditure-dashboard/blob/main/kpi.png)
+![Image alt text](https://github.com/ti2ni1m/it-expenditure-dashboard/blob/main/kpi.png)
 
 ## Key Insights
 * Certain departments contribute the majority of IT spending
